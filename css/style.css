@@ -20,20 +20,20 @@ h1 {
 #songs {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
 }
 #artists {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-direction: column;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
 }
 #lengths {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     flex-direction: column;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
@@ -41,7 +41,7 @@ h1 {
 #links {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
 }
